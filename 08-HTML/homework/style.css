@@ -1,0 +1,27 @@
+body{
+    background-image: url("patron.jpg");
+}
+.divClass h1{
+    color: brown;
+}
+#thirdDiv img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: blueviolet;
+    padding: 50px;
+    border: 5px solid chartreuse ;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+div{
+    text-align: center;
+    margin: auto;
+}
+li{
+    text-align: justify;
+}

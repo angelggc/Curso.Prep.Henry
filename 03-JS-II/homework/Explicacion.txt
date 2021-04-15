@@ -1,0 +1,4 @@
+For: El ciclo for es una herramienta que se usa para repetir una accion siempre y cuando se cumpla una condicion.
+|| y && : Estos simbolos son condicionales que el que se puede poner varias condiciones, || significa "o" y && significa "y". 
+Ej: al poner una condicion con || quiere decir que cualquiera de las 2 condiciones contal que uno sea True, toda la operacion dara de resultado true (1<2 || 3>4) esa operacion es true porque  1<2 o 3>4 tiene que ser true.
+Con && las 2 operaciones, o mas, tiene que ser true para pasar. (1<2 && 3<4) esto es true porque 1<2 y 3<4 tiene que ser true

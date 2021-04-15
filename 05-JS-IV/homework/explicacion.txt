@@ -1,0 +1,36 @@
+objeto: Un objeto es como una variable pero que puede guardar mas informacion, estos se definen usando "{}" y dentro tienen propiedades 
+EJ: {
+    propiedad1: "Hola mundo!",
+    propiedad2: 14
+}
+
+propiedades: las propiedades son cada informacion que esta dentro de un objeto, estos pueden ser string, numeros, booleanos e incluso funciones
+Ej: {
+    propiedad1: "Es un string",
+    propiedad2: 10 // es un numero
+    propiedad3: true //es un booleano
+    propiedad4: ()=>{
+        return "es una funcion"
+    }
+}
+
+Metodo: Metodo es el nombre que se les pone a las funciones que son una propiedad de un objeto.
+Ej: {
+    propiedad1: ()=>{
+        return "este es un metodo"
+    }
+}
+
+For In: El bucle for in solo trabaja sobre las propiedades de un objeto
+
+
+Notacion punto, notacion corchetes: las notaciones nos permiten entrar a las propiedades de un objeto,
+hay 2 maneras de usar las notaciones, la notacion de punto y la de corchete.
+Ej: 
+
+let objeto = {prop1: 1, prop2:2, prop3:3}
+
+objeto.prop1 == 1   //notacion de punto
+objeto["prop1"] == 1    //notacion de corchete
+
+ventajas de la notacion de corchete: nos permite entrar a las propiedades usando un string y usar propiedades que tengan puntos en sus nombres

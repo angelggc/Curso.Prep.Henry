@@ -1,0 +1,2 @@
+Array: Un array es una lista, se escribern dentro de corchetes "[]" y los elementos se separan con ","
+Ej: ["String", 10, true]

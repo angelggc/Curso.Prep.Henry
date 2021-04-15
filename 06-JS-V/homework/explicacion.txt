@@ -1,0 +1,3 @@
+prototype: una funcion prototype es una funcion que ser heredan para otros objetos, si se busca una propiedad que no se encuentra en el objeto, se busca en su prototipo
+
+constructor de clases: el constructor en las clases es una funcion que tiene un objeto predefinido que se llena con los parametro quese le pase al constructor, en resumen es una planilla en blanco de las clases

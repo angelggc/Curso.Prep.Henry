@@ -1,0 +1,24 @@
+Variables: Las variables son cajas que guardan informacion y datos, puedo hacer una caja llamada "edad" y dentro guardar un numero. 
+EJ: let edad = 21
+
+String: Un string es un tipo de dato que tienen palabras o un texto, para que el lenguaje javascrip lo reconosca tiene que ser escrito entre comillas, tambien puede ser guardadas en variables. 
+EJ: "Esto es un string"
+let string = "Este es un string en una variable"
+
+Funciones: Una funcion es un conjuntos de procedimientos reutilisables, estos pueden o no recivir un argumento que se declara cuando estemos por utilizar esta funcion. El return se utiliza para devolver un dato de la funcion.
+EJ: function funcionEj(argumento){
+    return "Esta funcion devuelve un string junto al argumento => " + argumento
+}
+function funcion(){
+    return "Esta funcion no tiene argumento :("
+}
+
+If: Un if es un condicional que toma deciciones depende de la condicion dada. Mas facil, if en español significa "si" y se refiere a..."si ocurre esto, hace esto".
+EJ: if(1 == 1){
+    "Uno es igual a uno"
+}
+El ejemplo de arriba se leeria algo asi: "Si 1 es igual a 1, declara un string que diga "Uno es igual a uno".
+
+Booleanos: Un Boolean es un tipo de dato que puede tener 2 estados, true y false. Es facil de entender, true es Verdadero y false es Falso. Estos se pueden utilizar en condicionales y el resultado booleano se puede obtener de comparadores.
+EJ: 1 == 1 //true
+2 == 1 //false
